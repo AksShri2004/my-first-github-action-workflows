@@ -34,4 +34,4 @@ jobs:
       - name: Run a one-line script
         env:
           var1: bruh1
-        run: echo  "$var1 $var2 and $cloud!
+        run: echo  "$var1 $var2 and $cloud!"
